@@ -1,0 +1,15 @@
+{
+  "name": "hana-matcha-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark theme based off the DSA Hana keycap set",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/arturoalviar/hana-matcha-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
