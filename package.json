@@ -1,7 +1,7 @@
 {
   "name": "hana-matcha-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A dark theme based off the DSA Hana keycap set",
   "keywords": [
     "syntax",
